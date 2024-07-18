@@ -1,6 +1,8 @@
+## About
+
 **Introducing Richard Uzor, Data Analysis Professional:**
 
-**Welcome to my GitHub page!**
+*Welcome to my GitHub page!*
 
 I am Richard Uzor, a highly qualified professional with an MBA from Huddersfield Business School. 
 
@@ -19,7 +21,32 @@ Together, we can unlock the full potential of technology.
 Feel free to browse through some of my documented projects to gain a deeper understanding of my capabilities and feedback will be appreciated. :pray:
 
 Let's make data work for us! :handshake:
+My CV in (PDF)
 
+*This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analysis.*
+
+
+## Portfolio Projects
+
+
+
+
+
+
+
+
+## Certificates
+
+
+
+
+
+
+
+
+
+
+## Contacts
 
 **You can contact me via:**  
 
