@@ -62,7 +62,7 @@ My CV in (PDF)
 
 Email: Okonyeservicenow@gmail.com
 
-[LInkedln]()
+[www.linkedin.com/in/]()
 
 [Twitter]()
 
